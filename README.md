@@ -23,5 +23,9 @@ d = { 'Anna' : 3.99, 'betty' : 3.78}
 for k,v in d.items():
   print(k,v)
 
+#diffuser
 
+ pip install --upgrade diffuser[torch]
+ pip install --upgrade transformers
+ 
 ศราภรณ์ สมบัติ
