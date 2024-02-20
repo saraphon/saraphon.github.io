@@ -1,3 +1,4 @@
+import torch
 from diffusers import DiffusionPipline as DP
 from PIL import Image, ImageDraw, ImageFont
 
